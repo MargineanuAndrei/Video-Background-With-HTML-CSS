@@ -56,18 +56,18 @@ body {
     z-index: 2;
 }
 
-.header-content h1 {
+.header-content-h1 {
     font-size: 50px;
     margin-bottom: 0;
 }
 
-.header-content p {
+.header-content-p {
     font-size: 1.5rem;
     display: block;
     padding-bottom: 2rem;
 }
 
-.btn {
+.main-btn {
     background: #34b3a0;
     color: #fff;
     font-size: 1.2rem;
@@ -79,7 +79,7 @@ body {
     padding: 20px 0;
 }
 
-.section-b {
+.section-second {
     background: #333;
     color: #fff;
 }
